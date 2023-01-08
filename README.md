@@ -39,7 +39,7 @@ using AnnulusGames.UnityEditorIcons;
 
 ## How to use
 
-You can get icons from UnityIcons class.
+You can get icons from EditorIcons class.
 
 ``` cs
 //get help icon

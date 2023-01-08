@@ -39,7 +39,7 @@ using AnnulusGames.UnityEditorIcons;
 
 ## 使い方
 
-UnityIconsクラスからアイコンを取得できます。
+EditorIconsクラスからアイコンを取得できます。
 
 ```cs
 //Helpアイコンを取得
